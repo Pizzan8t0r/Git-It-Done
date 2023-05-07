@@ -2,7 +2,7 @@
 A server-side web API consists of one or more publicly exposed endpoints to a defined request–response message system, typically expressed in JSON or XML by means of an HTTP-based web server.
 
 ## Description 
-This web app uses GitHub's API to search for open source projects with open issues and pull requests. The processing takes place on a web server, in a nutshell, when something is on the server-side, we basically mean that it is or will be executed in the server or a remote machine.
+This web app uses GitHub's API to search for open source projects with open issues and pull requests. The processing takes place on a web server; in a nutshell, when something is on the server-side, we basically mean that it is or will be executed in the server or a remote machine.
 Server side programming is that which performs all the task in the server only.  Using the browser's Fetch API to communicate with a server, the JavaScript retrieves and displays repositories and their open issue counts when a user searches for them.
 
 #### Github API:
